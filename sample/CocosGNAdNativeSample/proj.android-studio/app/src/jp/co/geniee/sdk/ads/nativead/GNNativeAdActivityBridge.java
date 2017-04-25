@@ -1,0 +1,1 @@
+../../../../../../../../../../../NativeAd-cocos2dx-1.0.0/proj.android-studio/app/src/jp/co/geniee/sdk/ads/nativead/GNNativeAdActivityBridge.java
