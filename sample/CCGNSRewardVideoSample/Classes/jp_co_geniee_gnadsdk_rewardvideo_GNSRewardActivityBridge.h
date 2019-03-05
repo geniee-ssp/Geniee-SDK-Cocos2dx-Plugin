@@ -1,1 +1,0 @@
-../../../RewardVideoAd-cocos2dx-1.0.0/Classes/GNSAdSDK-cocos2dx/jp_co_geniee_gnadsdk_rewardvideo_GNSRewardActivityBridge.h
